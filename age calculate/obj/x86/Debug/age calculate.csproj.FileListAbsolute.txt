@@ -1,0 +1,5 @@
+c:\users\home\documents\visual studio 2010\Projects\age calculate\age calculate\bin\Debug\age calculate.exe
+c:\users\home\documents\visual studio 2010\Projects\age calculate\age calculate\bin\Debug\age calculate.pdb
+c:\users\home\documents\visual studio 2010\Projects\age calculate\age calculate\obj\x86\Debug\age calculate.exe
+c:\users\home\documents\visual studio 2010\Projects\age calculate\age calculate\obj\x86\Debug\age calculate.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\age calculate\age calculate\obj\x86\Debug\age calculate.csprojResolveAssemblyReference.cache
